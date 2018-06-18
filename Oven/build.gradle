@@ -4,9 +4,3 @@ apply plugin: 'eclipse'
 group = 'com.example.SmartHome'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
-
-dependencies {
-    compile project('Switch9000')
-    compile project('Bulb9000')
-    compile project('Oven')
-}
