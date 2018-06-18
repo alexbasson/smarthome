@@ -1,0 +1,4 @@
+rootProject.name = 'smarthome'
+
+include 'Switch9000'
+include 'Bulb9000'
