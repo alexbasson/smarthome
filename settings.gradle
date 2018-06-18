@@ -1,5 +1,6 @@
 rootProject.name = 'smarthome'
 
 include 'Switch9000'
+include 'Switch9001'
 include 'Bulb9000'
 include 'Oven'
