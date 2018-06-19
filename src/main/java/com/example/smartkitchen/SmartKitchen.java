@@ -1,4 +1,4 @@
-package com.example.smarthome;
+package com.example.smartkitchen;
 
 import com.example.oven.Oven;
 
